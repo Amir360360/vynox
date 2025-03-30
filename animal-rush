@@ -1,6 +1,6 @@
 {
   "des": "",
-  "lock": false,
+  "lock": "false",
   "des_lock": "",
-  "version": 1
+  "version": "1"
 }
