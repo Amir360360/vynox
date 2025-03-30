@@ -1,6 +1,6 @@
 {
   "des": "",
-  "lock": "true",
-  "des_lock": "برنامه به دلایل امنیتی فعلا در دسترس نیست.",
-  "version": "1"
+  "lock": "false",
+  "des_lock": "",
+  "version": "2"
 }
